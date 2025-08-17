@@ -7,12 +7,12 @@ it enables system to-> i) Make decision ii) understand natural language iii) lea
 
 **##2. What is Machine learning?**
 Machine learning is a subset of AI where machines learn from data to make prediction or decisions without being explicitly programmed.
-**Types of ML:**
-1] Supervised learning-> Model learns from Labeled data. Types-> i) Classification-> predicts categories ii) Regression-> predicts numbers 
+-**Types of ML:**
+-**1] Supervised learning**-> Model learns from Labeled data. Types-> i) Classification-> predicts categories ii) Regression-> predicts numbers 
 for example- Speech recognition converte spoken language to text
-2] Unsupervised learning-> Model explored data without labels Types-> i) Clustering ii)Association
+-**2] Unsupervised learning**-> Model explored data without labels Types-> i) Clustering ii)Association
 For example- Content recommendation classify and tag content to make it easier to recommend similar item to useres
-3] Reinforcement learning-> Model  intercats and improve the performance based on feedback Algorithm-> i) QC learning ii)State action reward iii) Deep learning 
+-**3] Reinforcement learning**-> Model  intercats and improve the performance based on feedback Algorithm-> i) QC learning ii)State action reward iii) Deep learning 
 For example: Game playing-> RL can teach agents to play games even complex one
 
 
