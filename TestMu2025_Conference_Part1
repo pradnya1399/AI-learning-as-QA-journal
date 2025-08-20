@@ -1,0 +1,73 @@
+TestMu Conference 2025 – Learnings So Far
+
+The conference kicked off on 19th August 2025, and I have been fortunate to attend some truly insightful sessions. Below are my learnings and key takeaways so far:
+
+Exploratory Testing with AI – Speaker: Gil (CTO)
+
+Demonstrated how AI can generate exploratory test cases across UI, API, and automation, and even compare expected vs actual results.
+
+Practical demo on storing results in PyCharm with a structured codebase.
+
+Open question raised: Can AI-generated exploratory tests truly cover all areas since they rely on existing data?
+
+How to Test LLM Agents – Speaker: James Massa
+
+Gained clarity on what LLMs are, how they work, and approaches to test them.
+
+Key concepts discussed: Vector DB, RAG, Hallucination, Orchestration.
+
+Testing strategies highlighted:
+
+Validate against diverse data to avoid hallucination.
+
+Use both human and machine perspectives for validation.
+
+Apply reinforcement learning.
+
+Ensure consistency across repeated queries.
+
+Test against malicious/fraud inputs.
+
+Perform prompt variation testing.
+
+Use scoring and judgment for response evaluation.
+
+Panel Discussion: What Can Go Wrong with AI in Testing?
+
+Covered challenges, biases, and costs involved in using AI tools.
+
+Consensus that AI will not remain optional for testers.
+
+Concerns discussed:
+
+Rising cost of AI tools.
+
+Need for constant human supervision to ensure responsible use.
+
+Testing the Untestable: Agent-to-Agent Testing
+
+Concept introduced where AI agents interact with and test other agents.
+
+Demonstration of agent-to-agent flows using LambdaTest.
+
+Key takeaway: AI agents are already becoming a part of daily QA workflows.
+
+Generative → Agentic → Quantum AI: The Evolution of AI – Speaker: Siddhant Wadhwani
+
+Progression explained:
+
+Generative AI: Text/image generation with LLMs.
+
+Agentic AI: Chains of agents taking actions.
+
+Quantum AI: Future state addressing unsolvable problems.
+
+Clarification on terms: LLM, RAG, GENAI, MPC.
+
+Distinction between Agentic AI vs AI Agents.
+
+Key Takeaway So Far
+
+To remain relevant in QA and beyond, it is important not just to learn AI tools but to deeply understand AI itself. The future is less about AI replacing humans and more about how effectively we adapt, learn, and use AI in our workflows.
+
+I look forward to the upcoming sessions and further learning.
