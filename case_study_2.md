@@ -6,4 +6,4 @@
 - All the things  have mentioned down in attched document.
 - There are other difernet AI Powered Test Data Generation tools that we can use in our regular QA workflow, which i was not able to explore due to there premium access policy
   Mockaroo, Testsigma, Datprof, Mostly AI, K2View, 
-  
+- Case study doc- https://github.com/pradnya1399/AI-learning-as-QA-journal/commit/c016bacec4681d3841811354b70aa1075d2be03e 
